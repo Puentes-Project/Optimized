@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5E9C37E5-46E1-44B4-82DF-0BF3072DFC14}</ProjectGuid>
-    <RootNamespace>Website</RootNamespace>
+    <ProjectGuid>{6343B671-1D2E-46A2-854A-A23133D4839F}</ProjectGuid>
+    <RootNamespace>VisualStudioSolution</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
