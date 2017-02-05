@@ -4,10 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDDD59A5-F476-4440-8C42-21E7DBC3E3D1}"
-	ProjectSection(SolutionItems) = preProject
-		..\index.html = ..\index.html
-		..\README.md = ..\README.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
