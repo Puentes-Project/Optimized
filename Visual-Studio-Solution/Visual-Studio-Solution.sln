@@ -121,6 +121,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_site", "_site", "{405B690D-50B8-41B4-B73B-F63044FB6359}"
+	ProjectSection(SolutionItems) = preProject
+		..\_site\config.yml = ..\_site\config.yml
+		..\_site\contact_form.html = ..\_site\contact_form.html
+		..\_site\flatIron.sublime-workspace = ..\_site\flatIron.sublime-workspace
+		..\_site\index.html = ..\_site\index.html
+		..\_site\jquery-1.12.0.js = ..\_site\jquery-1.12.0.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2016", "2016", "{F104EC4F-0879-4765-9897-841C8147936F}"
+	ProjectSection(SolutionItems) = preProject
+		..\_site\2016\03\28\instructions.html = ..\_site\2016\03\28\instructions.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2017", "2017", "{EC3FE406-17C2-41B5-965F-BF2F75468B24}"
+	ProjectSection(SolutionItems) = preProject
+		..\_site\2017\02\04\2017-02-04-Podcast-1.html = ..\_site\2017\02\04\2017-02-04-Podcast-1.html
+		..\_site\2017\02\04\Podcast-1.html = ..\_site\2017\02\04\Podcast-1.html
+		..\_site\2017\02\04\Podcast-2.html = ..\_site\2017\02\04\Podcast-2.html
+		..\_site\2017\02\04\Podcast-3-Coming-April-01.html = ..\_site\2017\02\04\Podcast-3-Coming-April-01.html
+		..\_site\2017\02\04\Podcast-3.html = ..\_site\2017\02\04\Podcast-3.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -129,5 +152,7 @@ Global
 		{6A1F38B6-156D-4A7F-9155-FC224C6C8215} = {54B13EEB-1249-4CBB-B3C2-E57B75FFAD3F}
 		{E3DC376C-7B97-4C90-9D25-5B49144B88C1} = {4C30770E-CCE0-4BB1-B2D9-9B0EF7CD214A}
 		{4639FB77-7DC0-483F-B01D-F0C9AEE52062} = {4C30770E-CCE0-4BB1-B2D9-9B0EF7CD214A}
+		{F104EC4F-0879-4765-9897-841C8147936F} = {405B690D-50B8-41B4-B73B-F63044FB6359}
+		{EC3FE406-17C2-41B5-965F-BF2F75468B24} = {405B690D-50B8-41B4-B73B-F63044FB6359}
 	EndGlobalSection
 EndGlobal
